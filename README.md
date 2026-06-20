@@ -115,12 +115,3 @@ The implemented models are as follows:
 * **[UPFD-GAT](https://arxiv.org/pdf/1710.10903.pdf)**: Veličković, Petar, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Lio, and Yoshua Bengio. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017).
 * **[UPFD-SAGE](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)**: Hamilton, William L., Rex Ying, and Jure Leskovec. "Inductive representation learning on large graphs." arXiv preprint arXiv:1706.02216 (2017).
 
-Since the UPFD framework is built upon the [PyG](https://github.com/rusty1s/pytorch_geometric), you can easily try other graph classification models
-like [GIN](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/mutag_gin.py) and [HGP-SL](https://github.com/cszhangzhen/HGP-SL)
-under our dataset.
-
-
-## How to Contribute
-You are welcomed to submit your model code, hyper-parameters, and results to this repo via create a pull request.
-After verifying the results, your model will be added to the repo and the result will be updated to the [benchmark](https://paperswithcode.com/dataset/upfd).
-Please email to [ytongdou@gmail.com](mailto:ytongdou@gmail.com) for other inquiries.
