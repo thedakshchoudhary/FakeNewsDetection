@@ -1,9 +1,4 @@
-# GNN-based Fake News Detection
-[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/7305473/tree)
-
-
-[Installation](#installation) | [Datasets](#datasets) | [Models](#models) |  [PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)  | [DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)   | [Benchmark](https://paperswithcode.com/dataset/upfd) | [Intro Video](https://youtu.be/QAIVFr24FrA) | [How to Contribute](#how-to-contribute)
-
+# Fake News Detection - Using GNN
 
 This repo includes the Pytorch-Geometric implementation of a series of Graph Neural Network (GNN) based fake news detection models.
 All [GNN models](#user-guide) are implemented and evaluated under the User Preference-aware Fake News Detection ([UPFD](https://arxiv.org/pdf/2104.12259.pdf)) framework.
